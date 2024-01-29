@@ -18,8 +18,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/JacksonKontny/isort_vertical_alignment_plugin"
+Issues = "https://github.com/JacksonKontny/isort_vertical_alignment_plugin/issues"
 
 [project.entry-points.'isort.formatters']
 vertical-alignment = 'isort_vertical_alignment_plugin.format:format'
